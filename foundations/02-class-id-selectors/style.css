@@ -9,12 +9,12 @@ p {
 }
 
 
-.big-blue {
+#big-blue {
     color: blue;
     font-family: Impact;
     font-size: 48px;
 }
- .little-green {
+ #little-green {
     background-color: green;
     font-size: 24px;
     font-weight: bold;
